@@ -26,10 +26,10 @@ My goal is to combine software engineering, AI, and financial markets to build u
 - Git & GitHub
 - Software Development
 - Data Analysis (Learning)
-- Trading Concepts
+- Financial Markets
 - Automation
 - Problem Solving
 
 ---
 
-Thanks for visiting my profile 🚀
+Building, learning, and creating one project at a time.
