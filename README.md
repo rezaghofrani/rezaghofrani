@@ -1,6 +1,6 @@
 # Hi, I'm Reza Ghofrani 👋
 
-I'm a Software Engineer interested in Python, Artificial Intelligence, and Trading Technology.
+I'm a Software Engineer exploring Python, Artificial Intelligence, and technology solutions for financial markets.
 
 ## About Me
 
@@ -27,6 +27,8 @@ My goal is to combine software engineering, AI, and financial markets to build u
 - Software Development
 - Data Analysis (Learning)
 - Trading Concepts
+- Automation
+- Problem Solving
 
 ---
 
