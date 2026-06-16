@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Reza Ghofrani 👋
 
-<!--
-**rezaghofrani/rezaghofrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer interested in Python, Artificial Intelligence, and Trading Technology.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Engineering background
+- 🐍 Learning Python for automation and data analysis
+- 🤖 Exploring AI applications in real-world projects
+- 📈 Interested in algorithmic trading and market analysis
+
+## Current Focus
+
+- Python development
+- Data analysis
+- Trading automation tools
+- Building practical AI-based projects
+
+## Goals
+
+My goal is to combine software engineering, AI, and financial markets to build useful technology solutions.
+
+## Skills
+
+- Python
+- Git & GitHub
+- Software Development
+- Data Analysis (Learning)
+- Trading Concepts
+
+---
+
+Thanks for visiting my profile 🚀
